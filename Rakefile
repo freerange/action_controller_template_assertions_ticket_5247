@@ -34,8 +34,8 @@ spec = Gem::Specification.new do |s|
   # If you want to depend on other gems, add them here, along with any
   # relevant versions
   # s.add_dependency("some_other_gem", "~> 0.1.0")
-  s.add_dependency('activesupport', '>3.0.0')
-  s.add_dependency('actionpack', '>3.0.0')
+  s.add_dependency('activesupport', '3.0.1')
+  s.add_dependency('actionpack', '3.0.1')
 
   # If your tests use any gems, include them here
   # s.add_development_dependency("mocha") # for example
