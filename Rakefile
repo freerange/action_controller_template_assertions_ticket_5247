@@ -15,7 +15,7 @@ spec = Gem::Specification.new do |s|
 
   # Change these as appropriate
   s.name              = "action_controller_template_assertions_ticket_5247"
-  s.version           = "0.0.1"
+  s.version           = "0.0.2"
   s.summary           = "Monkey patches ActionController::TemplateAssertions#assert_template to fix ticket 5247"
   s.author            = "Chris Roos & Jason Cale"
   s.email             = "lets@gofreerange.com"

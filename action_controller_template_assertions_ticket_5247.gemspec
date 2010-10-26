@@ -2,11 +2,11 @@
 
 Gem::Specification.new do |s|
   s.name = %q{action_controller_template_assertions_ticket_5247}
-  s.version = "0.0.1"
+  s.version = "0.0.2"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Chris Roos & Jason Cale"]
-  s.date = %q{2010-10-25}
+  s.date = %q{2010-10-26}
   s.email = %q{lets@gofreerange.com}
   s.files = ["lib/action_controller_template_assertions_ticket_5247.rb"]
   s.homepage = %q{http://gofreerange.com}
